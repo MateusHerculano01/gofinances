@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "apppromocaododia",
+    "slug": "apppromocaododia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
