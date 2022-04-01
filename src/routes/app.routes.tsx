@@ -23,10 +23,6 @@ export function AppRoutes() {
         tabBarStyle: {
           height: 88,
           paddingVertical: Platform.OS === 'ios' ? 20 : 0,
-          borderTopStartRadius: 50,
-          borderTopEndRadius: 50,
-          borderTopColor: 'red'
-
         }
 
       }}
